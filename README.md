@@ -1,2 +1,2 @@
 # FPGA-Based-Image-Gradient-Processing
- FPGA-Based Image Gradient Processing and Real-time Display
+Designed a complex FPGA project involving memory generation, image gradient computation, and VGA display control. Utilized Vivado’s memory generator to store and access image data, implemented image gradient operations, and displayed the transformed images on a VGA monitor. The project showcases the integration of memory modules, image processing algorithms, and display controller design on the Basys 3 board using VHDL.
